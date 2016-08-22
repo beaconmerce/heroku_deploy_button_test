@@ -1,0 +1,7 @@
+{
+  "name": "Nodebeats",
+  "description": "A content management system built using MEAN Framework",
+  "repository": "https://github.com/ShrawanLakhe/heroku_deploy_button_test",
+  "logo": "http://res.cloudinary.com/nodebeats/image/upload/v1471326698/imageslider-1471326697464.png",
+  "keywords": ["node", "express", "cms"]
+}
