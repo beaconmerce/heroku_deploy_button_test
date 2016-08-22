@@ -8,8 +8,16 @@
 Check out the [**Nodebeats Getting Started Guide**](http://nodebeats.herokuapp.com/doc) to start using Nodebeats
 
 ## About
-**Nodebeats** gives you:
-*
+**Nodebeats** provides following features:
+* Two factor authentication
+* Token based authentication
+* Real time Google Analytics data
+* Host of options for email service providers like [**Mailgun**](https://np.linkedin.com/in/shrawanlakhe), [**Postmark**](https://np.linkedin.com/in/shrawanlakhe), [**Sendgrid**](https://np.linkedin.com/in/shrawanlakhe), [**Mandrill**](https://np.linkedin.com/in/shrawanlakhe), [**Google SMTP**](https://np.linkedin.com/in/shrawanlakhe) etc.
+* Integration with [**Cloudinary**](https://np.linkedin.com/in/shrawanlakhe) for Image management
+* Commenting system using Disqus
+* And many more features that you will love to have around.
+
+
 
 ## Usage
 
@@ -30,7 +38,7 @@ For api documentation, Check out the  [**API Documentation**](http://nodebeats.h
 
 ## Contributing
 
-we aim to make this software upto date, secured and at the same time provide more features. So, We need your help to make this possible. You can contribute to this project by reporting issues, discussing ideas and submitting pull requests with patches and new features.
+We aim to make this software upto date, secured and at the same time provide more features. So, We need your help to make this possible. You can contribute to this project by reporting issues, discussing ideas and submitting pull requests with patches and new features.
 
 If you can make some donations, then that will be great.
 
