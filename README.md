@@ -11,7 +11,7 @@
 
 You can host your website built using Nodebeats in any of the available hosting providers. Some of the most popular cloud computing platforms are [**Redhat Openshift**](https://www.openshift.com/), [**Heroku**](https://www.heroku.com/), [**DigitalOcean**](https://www.digitalocean.com/) and [**Modulus.io**](https://modulus.io/)
 
-Or, you can use the following button to directly deploy the application to the Heroku.
+Or, you can use the following button to directly deploy the application to the Heroku.  
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShrawanLakhe/heroku_deploy_button_test/tree/master)
 
