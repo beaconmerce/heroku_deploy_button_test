@@ -112,7 +112,7 @@ We will be adding new features regularly and also keep the project's npm depende
 
 MIT License
 
-Copyright (c) 2016 BitsBeat IT Solution
+Copyright (c) 2016 [**BitsBeat IT Solution**](http://www.bitsbeat.com/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
