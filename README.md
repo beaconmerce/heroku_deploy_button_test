@@ -5,13 +5,41 @@
 
 **Nodebeats** makes it easy to create web sites and applications and comes with beautiful admin UI.
 
+Check out the [**Nodebeats Getting Started Guide**](http://nodebeats.herokuapp.com/doc) to start using Nodebeats
+
+## Usage
+
+For detailed usage documentation, Check out the [**Nodebeats Getting Started Guide**](http://nodebeats.herokuapp.com/docs) to start using Nodebeats
+
+For api documentation, Check out the  [**API Documentation**](http://nodebeats.herokuapp.com/apidoc/)
+
+**Installation**
+
+
+
+## Maintainers
+
+[**Shrawan Lakhe**](https://np.linkedin.com/in/shrawanlakhe)
+
+[**Sandeep Ranjitkar**](https://np.linkedin.com/in/sandeepranjit)
+
+
+## Contributing
+
+we aim to make this software upto date, secured and at the same time provide more features. So, We need your help to make this possible. You can contribute to this project by reporting issues, discussing ideas and submitting pull requests with patches and new features.
+
+If you can make some donations, then that will be great.
+
+## Sponsors
+
+No sponsors yet! Will you be the first?
 
 ## Deploying Nodebeats
 
 
 You can host your website built using Nodebeats in any of the available hosting providers. Some of the most popular cloud computing platforms are [**Redhat Openshift**](https://www.openshift.com/), [**Heroku**](https://www.heroku.com/), [**DigitalOcean**](https://www.digitalocean.com/) and [**Modulus.io**](https://modulus.io/)
 
-Or, you can use the following button to directly deploy the application to the Heroku.  
+Or, you can use the following button to directly deploy the application to the Heroku.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShrawanLakhe/heroku_deploy_button_test/tree/master)
 
