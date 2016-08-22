@@ -29,6 +29,24 @@ For api documentation, Check out the  [**API Documentation**](http://nodebeats.h
 
 * Clone the project repository
 
+    * git clone https://github.com/ShrawanLakhe/heroku_deploy_button_test.git
+    * cd heroku_deploy_button_test
+
+
+* Install gulp, webpack and webpack dev server
+
+    * npm install gulp webpack webpack-dev-server -g
+
+
+* Go to the cloned project's root directory and run the following command to install required depenencies:
+
+    * npm install
+
+* Run the server
+    * npm start
+
+
+    
 ## Community
 "**Knowledge is power, Community is strength and positive attitude is everything**" by **Lance Armstrong**.
 
