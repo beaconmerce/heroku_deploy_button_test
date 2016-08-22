@@ -26,6 +26,10 @@ For detailed usage documentation, Check out the [**Nodebeats Getting Started Gui
 For api documentation, Check out the  [**API Documentation**](http://nodebeats.herokuapp.com/apidoc/)
 
 **Installation**
+* Install Node.js and MongoDB if not already installed
+
+    * Recommended Node version: v5.10.1
+    * Recommended MongoDB shell version: 3.2.9
 
 * Clone the project repository
 
@@ -42,11 +46,19 @@ For api documentation, Check out the  [**API Documentation**](http://nodebeats.h
 
     * npm install
 
+* If you have changed code and rebuid everything, then run the following commands
+
+    * webpack -p
+    * webpack --config webpack-client.config.js
+    * gulp service-worker
+
+
 * Run the server
     * npm start
+    * gulp if you are on local machine
 
+* Browse [**http://localhost:3000**](http://localhost:3000/) if you are in local machine.
 
-    
 ## Community
 "**Knowledge is power, Community is strength and positive attitude is everything**" by **Lance Armstrong**.
 
