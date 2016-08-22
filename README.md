@@ -7,6 +7,10 @@
 
 Check out the [**Nodebeats Getting Started Guide**](http://nodebeats.herokuapp.com/doc) to start using Nodebeats
 
+## About
+**Nodebeats** gives you:
+*
+
 ## Usage
 
 For detailed usage documentation, Check out the [**Nodebeats Getting Started Guide**](http://nodebeats.herokuapp.com/docs) to start using Nodebeats
