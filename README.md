@@ -12,8 +12,8 @@ Check out the [**Nodebeats Getting Started Guide**](http://nodebeats.herokuapp.c
 * Two factor authentication
 * Token based authentication
 * Real time Google Analytics data
-* Host of options for email service providers like [**Mailgun**](https://np.linkedin.com/in/shrawanlakhe), [**Postmark**](https://np.linkedin.com/in/shrawanlakhe), [**Sendgrid**](https://np.linkedin.com/in/shrawanlakhe), [**Mandrill**](https://np.linkedin.com/in/shrawanlakhe), [**Google SMTP**](https://np.linkedin.com/in/shrawanlakhe) etc.
-* Integration with [**Cloudinary**](https://np.linkedin.com/in/shrawanlakhe) for Image management
+* Host of options for email service providers like [**Mailgun**](https://www.mailgun.com/), [**Postmark**](https://postmarkapp.com/), [**Sendgrid**](https://sendgrid.com/), [**Mandrill**](https://www.mandrill.com/), [**Google SMTP**](https://mail.google.com) etc.
+* Integration with [**Cloudinary**](http://cloudinary.com/) for Image management
 * Commenting system using Disqus
 * And many more features that you will love to have around.
 
@@ -27,7 +27,24 @@ For api documentation, Check out the  [**API Documentation**](http://nodebeats.h
 
 **Installation**
 
+* Clone the project repository
 
+## Community
+"**Knowledge is power, Community is strength and positive attitude is everything**" by **Lance Armstrong**.
+
+"**Alone We can do so little, Together we can do so much**" by **Hellen Keller**.
+
+The above quotes shows us that how much the community is important to us. We also want to create a community that is friendly, engaging and most of all where everybody helps each other.
+
+So to get involved, following are the ways that will connect us:
+* Chat with us at [**gitter.im**](https://gitter.im/nodebeats/nodebeats)
+* Follow  [**@Nodebeats**](https://twitter.com/shrawanlakhe) for news and announcements
+* Regarding existing product features and new features, do give us your feedbacks and suggestiosn at   [**ProductPains**](https://productpains.com/user/nodebeats)
+* Ask any technical question regarding Nodebeats at [**Stackoverflow**](http://stackoverflow.com/questions/tagged/nodebeats) and tagged them **nodebeats**
+* Report the issues at our github repo's [**issue**](https://github.com/ShrawanLakhe/heroku_deploy_button_test/issues) tracker page
+
+
+So do send us your feedbacks and suggestions. You can also email us at **nodebeats@gmail.com**
 
 ## Maintainers
 
