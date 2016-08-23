@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="18327bd0-8788-4c8f-bafa-92b44c7051a3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" />
     </list>
     <ignored path="heroku_deploy_button_test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,8 +58,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="87" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="87" />
+              <first_editor relative-caret-position="-487">
+                <caret line="73" column="61" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="61" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -70,8 +71,21 @@
         <entry file="file://$PROJECT_DIR$/CONTRIBUTING.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="128" selection-start-line="3" selection-start-column="128" selection-end-line="3" selection-end-column="128" />
+              <first_editor relative-caret-position="562">
+                <caret line="60" column="156" selection-start-line="60" selection-start-column="156" selection-end-line="60" selection-end-column="156" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SECURITY.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SECURITY.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="319" selection-start-line="2" selection-start-column="273" selection-end-line="2" selection-end-column="319" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -131,6 +145,7 @@
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/app.json" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/SECURITY.md" />
         <option value="$PROJECT_DIR$/CONTRIBUTING.md" />
       </list>
     </option>
@@ -291,12 +306,12 @@
       <workItem from="1471860760206" duration="4985000" />
       <workItem from="1471865933755" duration="9028000" />
       <workItem from="1471929903612" duration="1684000" />
-      <workItem from="1471932934423" duration="1892000" />
+      <workItem from="1471932934423" duration="7433000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17589000" />
+    <option name="totallyTimeSpent" value="23130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="39" y="24" width="1327" height="744" extended-state="6" />
@@ -487,8 +502,19 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="87" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="87" />
+          <first_editor relative-caret-position="-487">
+            <caret line="73" column="61" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="61" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SECURITY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="319" selection-start-line="2" selection-start-column="273" selection-end-line="2" selection-end-column="319" />
             <folding />
           </first_editor>
           <second_editor />
@@ -498,8 +524,8 @@
     <entry file="file://$PROJECT_DIR$/CONTRIBUTING.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="128" selection-start-line="3" selection-start-column="128" selection-end-line="3" selection-end-column="128" />
+          <first_editor relative-caret-position="562">
+            <caret line="60" column="156" selection-start-line="60" selection-start-column="156" selection-end-line="60" selection-end-column="156" />
             <folding />
           </first_editor>
           <second_editor />

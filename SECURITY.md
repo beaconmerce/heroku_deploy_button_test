@@ -1,0 +1,7 @@
+# Reporting Security Issues
+
+We aim to make this one of most secured Content Management Systems around. We will continue to research and implement new features that will make this product even more secured. So, If you discover any security issue in **Nodebeat** please report it by sending an email to [**nodebeats@gmail.com**](nodebeats@gmail.com)
+
+This will allow us to quickly access the risk and  fix the issue.
+
+ Thanks for everyone for making this product safe for everyone.
