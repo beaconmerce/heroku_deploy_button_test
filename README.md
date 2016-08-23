@@ -53,6 +53,20 @@ For api documentation, Check out the  [**API Documentation**](http://nodebeats.h
     * gulp service-worker
 
 
+* Edit the database configuration file in **/lib/configs/database.config.js** and enter the appropriate MongoDB credentials.
+
+```json
+production: {
+    username: '',
+    password: '',
+    host: '',
+    port: '',
+    dbName: ''
+},
+```
+
+Once this is done, you are ready to start the application.
+
 * Run the server
     * npm start
     * gulp if you are on local machine
