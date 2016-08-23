@@ -1,7 +1,7 @@
 # CONTRIBUTING
 
 First of all, We would like to thank you for reading this and taking interest in this product. We want this product to be reliable, secured and highly optimized for which we need your guidances and contributions.
-By participating in this project, you agree to abide by the Nodebeat [** Code of conduct**](https://github.com/ShrawanLakhe/heroku_deploy_button_test/blob/master/CONTRIBUTING.md).
+By participating in this project, you agree to abide by the Nodebeat  [Code of conduct](https://github.com/ShrawanLakhe/heroku_deploy_button_test/blob/master/CONTRIBUTING.md).
 
 If you haven't already join our community, then contact us via following channels:
 * Chat with us at [**gitter.im**](https://gitter.im/nodebeats/nodebeats)
@@ -36,16 +36,17 @@ So, Please write unit tests for various features.
 
 ### Suggesting Enchancements and New Features
 
- We need your suggestions and guidances so that we can make this product even better. Any suggestions would be hugely welcomed that would benefit the quality of this product. Suggestions regarding code reviews and anything that can benefit the product quality would be awesome as that can not only improve the overall the product quality, but also increase our knowledge..
+ We need your suggestions and guidances so that we can make this product even better. Any suggestions would be hugely welcomed that would benefit the quality of this product. Suggestions regarding code reviews and anything that can benefit the product quality would be awesome as that not only improve the overall product quality, but also increase our knowledge..
 
 
- ### Pull Request
+### Pull Request
 
  If you're able to patch the bug or add the new features, make a pull request with the code. Include test cases when submitting a pull request.
 
 
 
- ### Improving Existing Documentation
+
+### Improving Existing Documentation
 
  Documentation is the key part of any product. If you can contribute by writing documentations for various features or improve existing documentation, then that would be great.
 Also, If you can translate existing documentation to various languages so that people from every corner of the world can understand it, we will be very much thankful.
