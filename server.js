@@ -2,13 +2,13 @@ var express = require('express');
 var app= express(),
     path = require('path'),
     exphbs = require('express-handlebars'),
-    port = process.env.PORT || 3000,
     fs = require('fs'),
     compression = require('compression');
 	
     app.use(compression());
 
-
+var port = process.env.PORT || process.env.OPENSHIFT_NODEJS_PORT || 8080,
+    ip   = process.env.IP   || process.env.OPENSHIFT_NODEJS_IP || '0.0.0.0';
 
 app.use(function (req, res, next) {
     res.setHeader('Access-Control-Allow-Origin', '*');
@@ -45,6 +45,6 @@ app.get('/', function(req, res, next){
 
 
 
-app.listen(port, function() {
+app.listen(port,ip, function() {
             console.log('server started on ' + port);
         });
